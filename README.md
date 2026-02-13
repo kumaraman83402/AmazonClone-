@@ -1,0 +1,1 @@
+# An Amazon Clone is an e-commerce web application.
